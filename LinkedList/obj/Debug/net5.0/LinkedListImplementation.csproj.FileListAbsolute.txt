@@ -1,0 +1,16 @@
+C:\Users\decag\source\repos\LinkedList\LinkedList\bin\Debug\net5.0\LinkedListImplementation.exe
+C:\Users\decag\source\repos\LinkedList\LinkedList\bin\Debug\net5.0\LinkedListImplementation.deps.json
+C:\Users\decag\source\repos\LinkedList\LinkedList\bin\Debug\net5.0\LinkedListImplementation.runtimeconfig.json
+C:\Users\decag\source\repos\LinkedList\LinkedList\bin\Debug\net5.0\LinkedListImplementation.runtimeconfig.dev.json
+C:\Users\decag\source\repos\LinkedList\LinkedList\bin\Debug\net5.0\LinkedListImplementation.dll
+C:\Users\decag\source\repos\LinkedList\LinkedList\bin\Debug\net5.0\ref\LinkedListImplementation.dll
+C:\Users\decag\source\repos\LinkedList\LinkedList\bin\Debug\net5.0\LinkedListImplementation.pdb
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\LinkedListImplementation.csproj.AssemblyReference.cache
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\LinkedListImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\LinkedListImplementation.AssemblyInfoInputs.cache
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\LinkedListImplementation.AssemblyInfo.cs
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\LinkedListImplementation.csproj.CoreCompileInputs.cache
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\LinkedListImplementation.dll
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\ref\LinkedListImplementation.dll
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\LinkedListImplementation.pdb
+C:\Users\decag\source\repos\LinkedList\LinkedList\obj\Debug\net5.0\LinkedListImplementation.genruntimeconfig.cache
